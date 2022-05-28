@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
+div[id^="ClCa"] .card-header {
+    font-family: 'Trade Winds', cursive;
+    font-size: 1.3em;
+    border-top-right-radius:15px;
+    border-top-left-radius:15px;
+}
+
+input {
+  border: none;
+  display: inline;
+  font-family: inherit;
+  font-size: inherit;
+  padding: none;
+  width: auto;
+}
