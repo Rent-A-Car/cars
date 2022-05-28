@@ -1,4 +1,4 @@
-var jsonCarData = '[
+var jsonCarData = `[
     {
       
     },
@@ -242,4 +242,4 @@ var jsonCarData = '[
         "📞Bluetooth": "☑️"
       }
     }
-]'; 
+]`; 
