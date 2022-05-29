@@ -4,18 +4,18 @@
     },
     {
       "img": [
-        6,
-        "/img/santafe/santa_",
+        4,
+        "/img/Veos/veos_",
         "jpg"
       ],
       "details": {
-        "name": "Hyundai Santa Fe",
-        "fname": "Hyundai Santa Fe (2.2crdi)",
-        "text": "🚘automatic transmission, 🛢️ diesel,{n}❄️climate control, 📷Backup camera,📞Bluetooth",
-        "🚘transmission": "automatic",
+        "name": "Volkswagen Eos",
+        "fname": "Volkswagen Eos 2.0d DSG",
+        "text": "🚘automatic transmission, 🛢️ diesel,{n}❄️climate control, 🛡️Rear parking sensors,📞Bluetooth",
+        "🚘 transmission": "automatic",
         "🛢️fuel": "diesel",
-        "❄️climate control": "☑️",
-        "📷Backup camera": "☑️",
+        "❄️ climate control": "☑️",
+        "🛡️rear parking sensors": "☑️",
         "📞Bluetooth": "☑️"
       }
     },
@@ -148,23 +148,6 @@
         "🛡️front and rear parking sensors": "☑️",
         "💡light sensor": "☑️",
         "💧rain sensor": "☑️",
-        "📞Bluetooth": "☑️"
-      }
-    },
-    {
-      "img": [
-        4,
-        "/img/Veos/veos_",
-        "jpg"
-      ],
-      "details": {
-        "name": "Volkswagen Eos",
-        "fname": "Volkswagen Eos 2.0d DSG",
-        "text": "🚘automatic transmission, 🛢️ diesel,{n}❄️climate control, 🛡️Rear parking sensors,📞Bluetooth",
-        "🚘 transmission": "automatic",
-        "🛢️fuel": "diesel",
-        "❄️ climate control": "☑️",
-        "🛡️rear parking sensors": "☑️",
         "📞Bluetooth": "☑️"
       }
     },
