@@ -41,6 +41,25 @@ var jsonCarData = `[
     {
       "img": [
         5,
+        "/img/b18015/b18015_",
+        "jpg"
+      ],
+      "details": {
+        "name": "Mercedes B180",
+        "fname": "Mercedes B180 1.5CDI",
+        "text": "🚘automatic transmission, 🛢️ diesel,{n}❄️climate control,📞Bluetooth",
+        "🚘transmission": "automatic",
+        "🛢️fuel": "diesel",
+        "❄️Climate control": "☑️",
+        "🧭Navigation": "☑️",
+        "💡light sensor": "☑️",
+        "💧rain sensor": "☑️",
+        "📞Bluetooth": "☑️"
+      }
+    },
+    {
+      "img": [
+        5,
         "/img/wv7b/wv7b_",
         "jpeg"
       ],
