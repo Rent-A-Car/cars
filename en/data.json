@@ -40,6 +40,25 @@
     },
     {
       "img": [
+        6,
+        "/img/bmw/bmw_",
+        "jpg"
+      ],
+      "details": {
+        "name": "BMW 218",
+        "fname": "BMW 218 2.0d",
+        "text": "🚘automatic transmission, 🛢️ diesel,{n}❄️climate control, 🛡️front and rear parking sensors,📞Bluetooth",
+        "🚘transmission": "automatic",
+        "🛢️fuel": "diesel",
+        "❄️climate control": "☑️",
+        "🛡️front and rear parking sensors": "☑️",
+        "💡light sensor": "☑️",
+        "💧rain sensor": "☑️",
+        "📞Bluetooth": "☑️"
+      }
+    },
+    {
+      "img": [
         5,
         "/img/b18015/b18015_",
         "jpg"
